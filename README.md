@@ -1,0 +1,2 @@
+# sumppu-tietosuoja
+Sumpun tietosuojaseloste
